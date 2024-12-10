@@ -1,0 +1,16 @@
+.firstBoy{
+    width: 100%;
+    background-Color: #FFFFFF;
+    padding: 1rem 6%;
+    text-align: center;
+    justify-content: center;
+}
+
+.secondBoy{
+    width: 50%;
+    height: 50%;
+    margin: 2rem auto;
+    padding: 2rem;
+    background-Color: #ffffff;
+    border-radius: 1.5rem;
+}

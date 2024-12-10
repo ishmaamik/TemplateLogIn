@@ -1,0 +1,30 @@
+.firstBox {
+    width: 100%;
+    display: grid;
+    gap: 20px;
+    grid-template-columns: repeat(2,minmax(0, 1fr));
+    border-Radius: 5px;
+}
+
+.secondBox{
+    
+    grid-column: span 4;
+    border-radius: 7px;
+    padding: 0.5rem;
+}
+
+.thirdBox {
+    padding: 1rem;
+}
+
+.thirdBox:hover {
+    cursor: pointer;
+}
+
+.fourthBox {
+    width: 100%;
+    display: grid;
+    gap: 50px;
+    grid-template-columns: repeat(2,minmax(0, 1fr));
+    border-Radius: 5px;
+}
